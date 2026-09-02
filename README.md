@@ -29,4 +29,5 @@ This is a console-based ATM Simulator built using:
    ```bash
    pip install mysql-connector-python
 4. Run the project
+   ```bash
    python main.py
